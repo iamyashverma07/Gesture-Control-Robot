@@ -1,8 +1,8 @@
-# Gesture-Control-Robot
+# Gesture-Control-Robot<br>
 
 This repository contains the design and implementation details of a gesture-controlled surveillance robot. The robot is powered by an Arduino Nano and uses various components such as a gesture sensor, DC motors, a Bluetooth module, and a battery. The system allows for remote control of the robot's movement and surveillance functions through hand gestures.<br>
 
-<b>Components Used</b>
+<b>Components Used</b><br>
 <b>Arduino Nano:</b> Microcontroller used to control the robot.<br>
 <b>Gesture Sensor Module:</b> Used for gesture-based control of the robot.<br>
 <b>Bluetooth Module:</b> Enables wireless communication between the gesture controller and the robot.<br>
@@ -11,27 +11,27 @@ This repository contains the design and implementation details of a gesture-cont
 <b>Battery:</b> Powers the entire system.<br>
 <b>Wheels and Chassis:</b> Mechanical structure for movement.<br>
 
-<b>Features</b>
+<b>Features</b><br>
 <b>Wireless Control:</b> The robot can be controlled wirelessly via Bluetooth using a gesture sensor module.<br>
 <b>Real-Time Movement:</b> The gesture sensor allows for real-time control of the robot's direction and speed based on hand movements.<br>
 <b>Surveillance Capability:</b> The robot can be equipped with a camera or sensors for surveillance purposes.<br>
 
-<b>Schematic</b>
+<b>Schematic</b><br>
 Include a detailed schematic of the connections between the components here.<br>
 
-<b>How to Build</b>
+<b>How to Build</b><br>
 <b>Assemble the Robot:</b> Connect the DC motors to the chassis and attach the wheels.<br>
 <b>Connect Components:</b> Wire the Arduino Nano to the motor driver, gesture sensor module, and Bluetooth module according to the schematic.<br>
 <b>Upload Code:</b> Program the Arduino Nano with the provided code to control the robot.<br>
 <b>Power Up:</b> Connect the battery to power the system.<br>
 <b>Pair Devices:</b> Pair the Bluetooth module with the gesture controller for wireless operation.<br>
 
-<b>Usage</b>
+<b>Usage</b><br>
 <b>Turn On:</b> Switch on the robot and the gesture controller.<br>
 <b>Control:</b> Use hand gestures to navigate the robot.<br>
 <b>Surveillance:</b> Monitor the surroundings using the robot's camera (if installed).<br>
 
-<b>Future Enhancements</b>
+<b>Future Enhancements</b><br>
 Add a camera for real-time video surveillance.<br>
 Implement obstacle detection and avoidance.<br>
 Enhance battery life for longer operation.<br>
@@ -39,5 +39,5 @@ Enhance battery life for longer operation.<br>
 <b>Contributing</b>
 Feel free to fork this repository, make improvements, and create pull requests. Contributions are welcome!<br>
 
-<b>License</b>
+<b>License</b><br>
 This project is licensed under the MIT License.
